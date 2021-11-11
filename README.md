@@ -1,0 +1,2 @@
+# IRIS_Classification
+This project implements the Logistic Regression Classifier by classifying two types of flowers  (Virginica and Non Virginica) based on two features: sepal width and sepal length.   I use the sigmoid function for predictions and train my model using gradient (w.r.t bias and weights) descent.   Finally, I estimate accuracy based on how many predictions my model can get correct and plot the decision boundary for the observations to visually represent the accuracy of my model.
